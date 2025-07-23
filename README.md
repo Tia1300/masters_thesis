@@ -3,7 +3,7 @@ This repository contains code associated with the author's Master's Thesis, "Mul
 
 The code in this repository is separated into three files. The first two files are related to Chapter 3 from the thesis and the third is associated to Chapter 4. All important functions from the files, as well as necessary background and examples is found in Chapter 5 of the thesis.
 
-The first file, "Multivariate Limit Theorems - Companion Notebook", allows one to compute a Local Central Limit theorem for a rational function satisfying the conditions of Theorem 46 in the thesis. We also apply the code to the examples, and perform computations corresponding to sections of the proof given in the thesis.
+The first file, "Multivariate Limit Theorems - Companion Notebook", allows one to compute a Local Central Limit theorem for a rational function satisfying the conditions of Theorem 47 in the thesis. We also apply the code to the examples, and perform computations corresponding to sections of the proof given in the thesis.
 
 The second file, "Package for Automatic LCLTs", gives code that takes a rational function and algorithmically checks whether its coefficients satisfy a Local Central Limit Theorem using Proposition 38 in the thesis. This notebook thus works in a more general setting, but the code takes longer as it must prove the existence of minimal critical points.
 
